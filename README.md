@@ -74,4 +74,9 @@ Designed domain-driven features to capture physical relationships:
 **Key Observations:**  
 - Model achieves **strong overall accuracy (95%)** with excellent detection of majority classes (`Lean`, `Scaling`).  
 - **ExcessAir faults** remain the most challenging (lower precision).  
-- SMOTE + RFECV yielded **stable and consistent CV performance**. 
+- SMOTE + RFECV yielded **stable and consistent CV performance**.
+
+  ## 👥 Team Members
+
+- **Aanya Singh** 
+- **Annie Mathew**  

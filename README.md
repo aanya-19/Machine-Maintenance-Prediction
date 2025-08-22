@@ -1,4 +1,4 @@
-# 🔥 Simulated Boiler Fault Prediction  
+# Simulated Boiler Fault Prediction  
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/stable/)  

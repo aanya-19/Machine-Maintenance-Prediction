@@ -32,7 +32,6 @@ This project develops an **optimized machine learning pipeline** for **fault det
 - Removed irrelevant columns  
 - Label encoding applied on categorical labels  
 - Verified no missing values  
-- Addressed **class imbalance** with SMOTE  
 
 **2. Feature Engineering**  
 Designed domain-driven features to capture physical relationships:  
